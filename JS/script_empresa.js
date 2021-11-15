@@ -1,1 +1,1 @@
-alert("Você está indo para 'A Empresa'");
+alert("teste");
