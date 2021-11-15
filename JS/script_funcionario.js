@@ -1,1 +1,1 @@
-alert("Bem-vindo a Funcionários");
+alert("Bem-vindo a Colaboradores");
