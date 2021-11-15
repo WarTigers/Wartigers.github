@@ -1,1 +1,1 @@
-alert("teste");
+alert("Bem-vindo a Galeria");
