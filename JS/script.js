@@ -1,1 +1,1 @@
-alert("teste");
+alert("Você está mudando de página");
